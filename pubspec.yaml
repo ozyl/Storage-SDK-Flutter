@@ -12,7 +12,7 @@ dependencies:
   dio: ^4.0.0
   convert: ^3.0.0
   crypto: ^3.0.1
-  shared_preferences: ^2.0.5
+  shared_preferences: ^2.0.13
   dio_http_cache: ^0.3.0
   path: ^1.8.0
   qiniu_flutter_sdk: ^0.3.0
